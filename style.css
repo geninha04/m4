@@ -1,0 +1,65 @@
+.div1{
+    background-color: rgb(188, 255, 80);
+    text-align: center;
+}
+
+
+.header1{
+    background-color: darkmagenta;
+    text-align: center;
+}
+
+
+.section1{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+
+.article1{
+    /* background-color: deeppink; */
+    text-align: center;
+}
+
+
+.footer1{
+    background-color: darkolivegreen;
+    text-align: center;
+}
+
+
+.nav1{
+    background-color: aqua;
+    text-align: center;
+}
+
+
+h1,h2,body{
+    margin:0px
+}
+
+
+button{
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+img{
+    max-width: 100%;
+}
+
+.textSize{
+    font-size:2rem;
+}
+
+a{
+    text-decoration: none;
+    color:aliceblue;
+    font-size: 2rem;
+}
+
+a:hover{
+    color:blue;
+}
